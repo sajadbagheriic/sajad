@@ -1,0 +1,22 @@
+[
+{
+        "Country": "Belize",
+        "Slug": "belize",
+        "ISO2": "BZ"
+    },
+    {
+        "Country": "British Virgin Islands",
+        "Slug": "british-virgin-islands",
+        "ISO2": "VG"
+    },
+    {
+        "Country": "Ecuador",
+        "Slug": "ecuador",
+        "ISO2": "EC"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Slug": "marshall-islands",
+        "ISO2": "MH"
+    }
+]
